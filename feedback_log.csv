@@ -1,0 +1,7 @@
+intent,urgency,response,assigned_team,feedback
+Routine Inquiry,Low,"Thank you for your inquiry about our new product launch. At the moment, there are no updates available. We appreciate your interest and will keep you informed as soon as we have more information to share.",General Support,Is there any update on your new product launch?
+Suggestion,Low,Thank you for your suggestion. We will consider it.,Product Management,Please consider offering loyalty points for repeat customers.
+Complaint,High,I apologize for the inconvenience. Let me look into this for you.,Customer Support,"Login takes a long time, please fix this soon."
+Complaint,High,I apologize for the inconvenience. Let me look into this for you.,Customer Support,The payment failed twice while booking my tickets. Please help urgently!
+Complaint,Medium,I apologize for the inconvenience. Let me look into this for you.,Customer Support,I noticed a small bug when using the filter feature.
+Complaint,High,I apologize for the inconvenience. Let me look into this for you.,Customer Support,The payment failed twice while booking my tickets. Please help urgently!
